@@ -32,27 +32,35 @@ Instructions:
 4. solder the jumper cables from the pcb pieces to 4 wires (red-black-green-blue) the weighing loadcell pcb.
 5. use a mouse cable or speaker cable containing 4 wires and solder it to the jumper cable pcb piece.
 6. match the 4 wires coming from the weighing sensor to the load cell amplifier HX711 red - red, black - black, white - white, green - green
-7. adjust the 4 pins on the HX711 load cell amplifier with the pins on the Arduino board. VCC -- 5v, DAT -- 2, CLK -- 3, GND -- GND
+7. adjust the 4 pins on the HX711 load cell amplifier with the pins on the Arduino board:
+VCC&nbsp;&nbsp; -- &nbsp;&nbsp;5v, 
+
+DAT&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;2, 
+
+CLK&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;3, 
+
+GND&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;GND
+
 
 loadcell pin connect to  HX711 green pcb pin 
 
-E+ &nbsp;&nbsp;&nbsp; --  E+
+E+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp&nbsp;;E+
 
-S+  --  A+
+S+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;A+
 
-E-  --  E-
+E- &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;E-
 
-S-  --  A-
+S- &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;A-
 
 loadcell pin connect to  HX711 purple pcb pin 
 
-E+  --  E+
+E+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;E+
 
-S+  --  A+
+S+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;A+
 
-E-  --  E-
+E- &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;E-
 
-S-  --  A-
+S- &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;A-
 
 References:
 
