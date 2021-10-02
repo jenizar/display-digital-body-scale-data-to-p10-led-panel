@@ -36,7 +36,7 @@ Instructions:
 
 loadcell pin connect to  HX711 green pcb pin 
 
-E+  --  E+
+E+ &nbsp;&nbsp;&nbsp; --  E+
 
 S+  --  A+
 
