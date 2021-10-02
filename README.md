@@ -2,17 +2,27 @@
 Digital body scale custom using arduino and HX711 load cell into display p10 led panel
 
 materials:
+
 digital body scale, arduino duemilanov/uno, HX711 load cell amplifier, 1x2 p10 led module (2 panel), psu 5v/10A for p10 led panel, psu 5v/3A for arduino, jumper cable, hub cable pin 16.
 
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
+
 ![alt text](http://url/to/img.png)
 
 Instructions:
@@ -25,18 +35,27 @@ Instructions:
 7. adjust the 4 pins on the HX711 load cell amplifier with the pins on the Arduino board. VCC -- 5v, DAT -- 2, CLK -- 3, GND -- GND
 
 loadcell pin connect to  HX711 green pcb pin 
+
 E+  --  E+
+
 S+  --  A+
+
 E-  --  E-
+
 S-  --  A-
 
 loadcell pin connect to  HX711 purple pcb pin 
+
 E+  --  E+
+
 S+  --  A+
+
 E-  --  E-
+
 S-  --  A-
 
 References:
+
 1. https://github.com/jenizar/arduino-digital-hanging-scale-data-on-p10-led-panel
 2. https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide/all
 3. https://www.instructables.com/Arduino-Bathroom-Scale-With-50-Kg-Load-Cells-and-H/
