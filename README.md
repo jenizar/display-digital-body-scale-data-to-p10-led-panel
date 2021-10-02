@@ -5,25 +5,21 @@ materials:
 
 digital body scale, arduino duemilanov/uno, HX711 load cell amplifier, 1x2 p10 led module (2 panel), psu 5v/10A for p10 led panel, psu 5v/3A for arduino, jumper cable, hub cable pin 16.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/display-digital-body-scale-data-to-p10-led-panel/blob/main/Screenshot/arduino_body_weight_scale1.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/display-digital-body-scale-data-to-p10-led-panel/blob/main/Screenshot/arduino_body_weight_scale2.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/display-digital-body-scale-data-to-p10-led-panel/blob/main/Screenshot/arduino_body_weight_scale3.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/display-digital-body-scale-data-to-p10-led-panel/blob/main/Screenshot/arduino_body_weight_scale4.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/display-digital-body-scale-data-to-p10-led-panel/blob/main/Screenshot/arduino_body_weight_scale5.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/display-digital-body-scale-data-to-p10-led-panel/blob/main/Screenshot/arduino_body_weight_scale6.jpg)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/display-digital-body-scale-data-to-p10-led-panel/blob/main/Screenshot/arduino_body_weight_scale7.jpg)
 
-![alt text](http://url/to/img.png)
-
-![alt text](http://url/to/img.png)
-
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jenizar/display-digital-body-scale-data-to-p10-led-panel/blob/main/Screenshot/arduino_body_weight_scale8.jpg)
 
 Instructions:
 1. open the back case with a screwdriver
