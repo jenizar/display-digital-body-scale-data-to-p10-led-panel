@@ -34,7 +34,7 @@ Instructions:
 6. match the 4 wires coming from the weighing sensor to the load cell amplifier HX711 red - red, black - black, white - white, green - green
 7. adjust the 4 pins on the HX711 load cell amplifier with the pins on the Arduino board:
 
-VCC&nbsp;&nbsp; -- &nbsp;&nbsp;5v, 
+VCC&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;5v, 
 
 DAT&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;2, 
 
@@ -45,7 +45,7 @@ GND&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;GND
 
 loadcell pin connect to  HX711 green pcb pin 
 
-E+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbs;p&nbsp;E+
+E+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;E+
 
 S+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;A+
 
