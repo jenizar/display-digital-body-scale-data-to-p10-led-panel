@@ -32,9 +32,9 @@ Instructions:
 
 VCC&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;5v, 
 
-DAT&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;2, 
+DAT&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;3, 
 
-CLK&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;3, 
+CLK&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;2, 
 
 GND&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;GND
 
