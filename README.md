@@ -45,7 +45,7 @@ GND&nbsp;&nbsp; -- &nbsp;&nbsp;&nbsp;GND
 
 loadcell pin connect to  HX711 green pcb pin 
 
-E+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp&nbsp;E+
+E+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbs;p&nbsp;E+
 
 S+ &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;A+
 
