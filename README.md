@@ -59,6 +59,8 @@ E- &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;E-
 
 S- &nbsp;&nbsp;&nbsp; --  &nbsp;&nbsp;&nbsp;&nbsp;A-
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MjQtA9wWIpw/0.jpg)](http://www.youtube.com/watch?v=MjQtA9wWIpw)
+
 References:
 
 1. https://github.com/jenizar/arduino-digital-hanging-scale-data-on-p10-led-panel
